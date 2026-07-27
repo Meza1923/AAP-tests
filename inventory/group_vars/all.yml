@@ -1,0 +1,3 @@
+environment: lab
+gpu_count: 0
+maintenance_window: "sunday-02:00"
