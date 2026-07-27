@@ -1,0 +1,2 @@
+gpu_count: 4
+gpu_type: "A100"
